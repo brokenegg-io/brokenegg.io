@@ -1,0 +1,9 @@
+*, body{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.nounderline
+{
+    text-decoration: none;
+    color: #6c757d!important;
+}
