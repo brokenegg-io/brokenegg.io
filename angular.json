@@ -24,7 +24,11 @@
             "tsConfig": "tsconfig.app.json",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              "CNAME",
+              "manifest.json",
+              "ROBOTS.TXT",
+              "serviceworker.js"
             ],
             "styles": [
               "src/styles.css"

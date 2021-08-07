@@ -1,0 +1,22 @@
+{
+    "short_name": "BrokenEgg",
+    "name": "BrokenEgg: sharing ideas for a better world",
+    "icons": [
+      {
+        "src": "/images/192x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/images/512x512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/?source=pwa",
+    "background_color": "#fffaf0",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#fffaf0",    
+    "description": "Weather forecast information"
+  }
